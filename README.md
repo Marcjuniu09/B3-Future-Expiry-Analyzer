@@ -5,8 +5,7 @@ Este projeto consiste em um sistema desenvolvido em Python capaz de analisar as 
 ## Instalação e Configuração
 Para utilizar o projeto, é necessário instalar as seguintes bibliotecas:
 
-pandas
-pandas_market_calendars
+pandas e pandas_market_calendars
 
 Essas bibliotecas podem ser instaladas através do gerenciador de pacotes pip:
 ```pip install pandas numpy pandas_market_calendars```
