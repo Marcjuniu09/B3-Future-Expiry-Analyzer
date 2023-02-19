@@ -9,8 +9,7 @@ pandas
 pandas_market_calendars
 
 Essas bibliotecas podem ser instaladas através do gerenciador de pacotes pip:
-```pip install pandas numpy pandas_market_calendars
-```
+```pip install pandas numpy pandas_market_calendars```
 ## Exemplo de Uso
 Suponha que você tenha um arquivo Excel chamado symbols.xlsx com os códigos dos ativos na coluna A e outras informações na coluna B. Para executar o projeto, basta executar o seguinte comando no terminal:
 python main.py symbols.xlsx
