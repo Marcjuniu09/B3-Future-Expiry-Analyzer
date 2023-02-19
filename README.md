@@ -10,9 +10,9 @@ pandas e pandas_market_calendars
 Essas bibliotecas podem ser instaladas através do gerenciador de pacotes pip:
 ```pip install pandas pandas_market_calendars```
 ## Exemplo de Uso
-Suponha que você tenha um arquivo Excel chamado symbols.xlsx com os códigos dos ativos na coluna A e outras informações na coluna B. Para executar o projeto, basta executar o seguinte comando no terminal:
+Suponha que você tenha um arquivo Excel chamado symbols.xlsx com os códigos dos ativos na coluna symbols. Para executar o projeto, basta executar o seguinte comando no terminal:
 python main.py symbols.xlsx
 
-O script lerá o arquivo symbols.xlsx, analisará as regras de expiração dos contratos futuros correspondentes aos códigos de ativo presentes na coluna A e armazenará as datas de expiração correspondentes na coluna E do mesmo arquivo.
+O script lerá o arquivo symbols.xlsx, analisará as regras de expiração dos contratos futuros correspondentes aos códigos de ativo presentes na coluna A e armazenará as datas de expiração correspondentes na coluna expiration do mesmo arquivo.
 
 
