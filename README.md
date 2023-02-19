@@ -1,4 +1,4 @@
-# Projeto de Análise de Expiração de Contratos Futuros da B3
+# Projeto de Análise de Expiração de Contratos Futuros da Bolsa de valores brasileira (B3)
 
 Este projeto consiste em um sistema desenvolvido em Python capaz de analisar as regras de expiração de contratos futuros da B3, a bolsa de valores brasileira. O sistema lê os códigos dos ativos de um arquivo Excel e armazena as datas de expiração correspondentes em uma coluna do mesmo arquivo.
 
